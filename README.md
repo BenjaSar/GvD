@@ -30,4 +30,4 @@ Los ejercicos y las preguntas vinculadas con el TP se encuentran en los siguient
 ---
 
 Este proyecto se encuentra publicado bajo la licencia MIT. En [este enlace](https://opensource.org/licenses/MIT) podrá encontrar más información sobre la misma.
-![footer](Images/LogoFooter.jpg)
+![footer](Images/LogoFooter.png) 
